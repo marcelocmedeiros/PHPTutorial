@@ -1,0 +1,56 @@
+Introdução ao PHP
+PHP é uma linguagem de script de uso geral e do lado do servidor que é especialmente adequada para desenvolvimento web.
+
+PHP originalmente significava Personal Home Page . No entanto, agora, significa Hypertext Preprocessor . É um acrônimo recursivo porque a primeira palavra também é um acrônimo.
+
+O PHP foi criado por Rasmus Lerdorf em 1994. Atualmente é mantido pelo PHP Development Team .
+
+PHP é uma linguagem do lado do servidor
+Quando você abre um site em seu navegador da Web, por exemplo, https://www.phptutorial.net
+
+O navegador da web envia uma solicitação HTTP para um servidor da web onde o phptutorial.net está localizado. O servidor web recebe a solicitação e responde com um documento HTML.
+
+Neste exemplo, o navegador da web é um cliente enquanto o servidor da web é o servidor. O cliente solicita uma página e o servidor atende à solicitação.
+
+O PHP é executado no servidor web, processa a solicitação e retorna o documento HTML.
+
+PHP é uma linguagem de uso geral
+Quando se trata do propósito das linguagens de programação, existem dois tipos principais: linguagens específicas de domínio e linguagens de propósito geral.
+
+Os idiomas específicos de domínio são usados ​​em domínios de aplicativos específicos. Por exemplo, SQL é uma linguagem específica de domínio. É usado principalmente para consultar dados de bancos de dados relacionais. E o SQL não pode ser usado para outros fins.
+
+Por outro lado, o PHP é uma linguagem de uso geral porque o PHP pode desenvolver várias aplicações.
+
+PHP é uma linguagem multiplataforma
+O PHP pode ser executado em todos os principais sistemas operacionais, incluindo Linux, Windows e macOS.
+
+Você pode usar PHP com todos os principais servidores da Web, como Nginx, OpenBSD e Apache. Alguns ambientes de nuvem também suportam PHP como Microsoft Azure e Amazon AWS.
+
+PHP é bastante flexível. Não se limita apenas ao processamento de HTML. PHP tem suporte embutido para gerar imagens PDF, GIF, JPEG e PNG.
+
+Uma característica notável do PHP é que ele suporta muitos bancos de dados, incluindo MySQL, PostgreSQL, MS SQL, db2, Oracle Database e MongoDB.
+
+O que o PHP pode fazer
+O PHP tem duas aplicações principais:
+
+Script do lado do servidor – PHP é adequado para o desenvolvimento de sites dinâmicos e aplicativos da web.
+Script de linha de comando – como Python e Perl, você pode executar script PHP a partir da linha de comando para executar tarefas administrativas, como enviar e-mails e gerar arquivos PDF.
+Os tutoriais neste site se concentram principalmente em scripts do lado do servidor.
+
+Como funciona o PHP
+O seguinte ilustra como o PHP funciona:
+Veja image ComoFuncionaPHP.png
+
+Como funciona o PHP:
+
+Primeiro, o navegador da Web envia uma solicitação HTTP para o servidor da Web, por exemplo, index.php.
+Em segundo lugar, o pré-processador PHP que se localiza no servidor web processa o código PHP para gerar o documento HTML.
+Terceiro, o servidor web envia o documento HTML de volta ao navegador web.
+Vantagens do PHP
+Como o PHP é projetado para a web em primeiro lugar, ele traz muitas vantagens para o desenvolvimento web:
+
+Simples – PHP é muito fácil de aprender e começar.
+Rápido – sites PHP normalmente rodam muito rápido.
+Estável – PHP é estável desde que existe há muito tempo.
+Open-source e gratuito – PHP é open source e gratuito. Isso significa que você não precisa pagar uma taxa de licença para usar o PHP para desenvolver produtos de software.
+Suporte da comunidade – O PHP tem uma comunidade online ativa que o ajuda sempre que você enfrenta um problema.
