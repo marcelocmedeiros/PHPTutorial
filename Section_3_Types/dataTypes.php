@@ -5,18 +5,18 @@
 // O PHP tem dez tipos primitivos, incluindo quatro tipos scala, quatro tipos compostos e dois tipos especiais:
 
 // Tipos escalares:
-    // bool 
-    // int
-    // float
-    // string
+// bool 
+// int
+// float
+// string
 // Tipos compostos
-    // array
-    // object
-    // callable
-    // iterable
+// array
+// object
+// callable
+// iterable
 // Tipos especiais
-    // resource
-    // null
+// resource
+// null
 
 /*
 Tipos escalares
@@ -66,7 +66,7 @@ Uma string é uma sequência de caracteres entre aspas simples (') ou aspas dupl
 
 // Um array é um mapa ordenado que associa chaves a valores. Por exemplo, você pode definir uma lista de itens em um carrinho de compras assim: 
 
-$carts = [ 'laptop', 'mouse', 'keyboard' ];
+$carts = ['laptop', 'mouse', 'keyboard'];
 echo $carts[0]; // 'laptop'
 echo $carts[1]; // 'mouse'
 echo $carts[2]; // 'keyboard'
@@ -77,7 +77,7 @@ $prices = [
     'laptop' => 1000,
     'mouse' => 50,
     'keyboard' => 120
- ];
+];
 
 echo $prices['laptop']; // 1000
 echo $prices['mouse']; // 50
